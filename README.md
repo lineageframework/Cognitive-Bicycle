@@ -29,7 +29,7 @@ This paper offers:
 
 ## Download the Full Paper
 
-[ The-Cognitive-Bicycle_Keen_April-2026.pdf](The-Cognitive-Bicycle_Keen_April-2026.pdf)
+[Download the Full Paper](The-Cognitive-Bicycle_Keen_April-2026.pdf)
 
 ## License
 
