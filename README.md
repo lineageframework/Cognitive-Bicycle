@@ -29,7 +29,7 @@ This paper offers:
 
 ## Download the Full Paper
 
-[Download the Full Paper](The-Cognitive-Bicycle_Keen_April-2026.pdf)
+[Download the Full Paper](https://github.com/lineageframework/Cognitive-Bicycle/blob/main/%F0%9F%93%84%20The-Cognitive-Bicycle_Keen_April-2026.pdf)
 
 ## License
 
