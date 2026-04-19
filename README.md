@@ -1,3 +1,4 @@
+![GitHub stars](https://img.shields.io/github/stars/lineageframework/Cognitive-Bicycle?style=social)
 # The Cognitive Bicycle
 
 **Honest AI Use, Intellectual Ownership, and the Framework the Academy Needs**
