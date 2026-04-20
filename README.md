@@ -40,7 +40,6 @@ Working manuscript. Not peer reviewed.
 ├── CognitiveBicycle_v2.3.pdf         ← Current working version
 └── archive/
     ├── v1.1_The-Cognitive-Bicycle_Keen_April-2026.pdf
-    └── CognitiveBicycle_v2.1.pdf
 ```
 
 ---
