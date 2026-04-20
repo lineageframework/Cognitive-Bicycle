@@ -39,7 +39,7 @@ Working manuscript. Not peer reviewed.
 ├── LICENSE
 ├── CognitiveBicycle_v2.3.pdf         ← Current working version
 └── archive/
-    └── v1.1_The-Cognitive-Bicycle_Keen_April-2026.pdf
+    └──The-Cognitive-Bicycle_Keen_April-2026.pdf
 ```
 
 ---
