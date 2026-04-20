@@ -1,40 +1,58 @@
-![GitHub stars](https://img.shields.io/github/stars/lineageframework/Cognitive-Bicycle?style=social)
-# The Cognitive Bicycle
-
-**Honest AI Use, Intellectual Ownership, and the Framework the Academy Needs**
-
-**Working Manuscript**  
-**Matthew John Keen**  
-**April 2026**
-
-## Abstract
-
-Generative artificial intelligence has altered the mechanics of scholarly production without eliminating human responsibility for intellectual direction. This document argues that integrity in modern scholarship depends not on rejecting new tools, but on documenting their use transparently. The central thesis is that scholarly trust rests on accurate lineage — the traceable connection between human intention, methodological development, and final output.
-
-It proposes a practical **lineage framework** (four tests + Lineage Declaration) and demonstrates its application to the paper itself.
-
-## Key Contribution
-
-This paper offers:
-- A clear historical and empirical analysis of the current “crisis of disclosure”
-- Four operational tests of intellectual ownership: **Spark Test**, **Map Test**, **Voice Test**, and **Defense Test**
-- A simple **Lineage Declaration** template for AI-assisted work
-- A full self-application of the framework to this very manuscript
-
-## Lineage Declaration (Author’s Own Disclosure)
-
-> A large language model was used in the production of this work. Its role was: research assistant, providing access to literature otherwise inaccessible to an independent researcher; critical interlocutor, stress-testing arguments under authorial direction; drafting instrument, articulating concise prompts into structured prose; and disciplinary bridge, connecting archival science, philosophy, and institutional theory.  
-> It did not originate the ideas. It did not determine the structure. It cannot defend the argument.  
-> It was a cognitive bicycle, ridden to a destination the author chose, through territory the author can navigate without it.
-
-## Download the Full Paper
-
-[Download the Full Paper](https://github.com/lineageframework/Cognitive-Bicycle/blob/main/%F0%9F%93%84%20The-Cognitive-Bicycle_Keen_April-2026.pdf)
-
-## License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
----
-
-Feedback, comments, and issues are very welcome. This is a working manuscript and will be updated based on input before formal journal submission.
+The Cognitive Bicycle
+Honest AI Use, Intellectual Ownership, and the Framework the Academy Needs
+Matthew John Keen — April 2026
+What This Is
+A working manuscript proposing lineage reporting as a structured institutional response to AI-assisted scholarly work. It argues that scholarly integrity depends not on rejecting new tools, but on documenting their use transparently — and that the right question is not who produced the text but who directed the thinking.
+The central contribution is the Compiler Analogy: AI, used correctly, is a compiler for original human thought. The programmer is still the author of software they compiled. The scholar is still the author of work they directed.
+The manuscript also introduces four practical ownership tests (Spark, Map, Voice, Defense) and a structured Lineage Declaration format for AI-assisted work.
+Status
+Version
+Date
+Status
+v1.1
+April 2026
+Initial working manuscript
+v2.0
+April 2026
+Revised — compiler analogy introduced, structure reworked
+v2.1
+April 2026
+ARKive/Microsoft origin narrative added (Section 6.1); compiler/bicycle frame unified
+v2.2
+April 2026
+Restored Luddites closing sentence; fixed integrity questions numbering
+v2.3
+April 2026
+Section 2.1 empirical claims fully sourced (Liang et al. 2025; PNAS 2026)
+Current version: v2.3
+Working manuscript. Not peer reviewed.
+Contents
+Code
+The Argument in Brief
+Generative AI has changed how scholarly text is produced. It has not changed who is responsible for intellectual direction.
+The lineage of a piece of work — the documented continuity from human intention through methodological development to final output — is what establishes scholarly trust. Disclosure of tool presence satisfies compliance. It does not constitute lineage documentation.
+This manuscript proposes:
+The Compiler Analogy — AI translates high-level human thought into prose, as a compiler translates high-level code into machine instructions. The human is the author in both cases, provided they supplied the intent, structure, and judgement.
+Four Ownership Tests — Spark (origin of the idea), Map (structure of the argument), Voice (governing judgement), Defense (independent explainability). These are not new criteria; they are explicit statements of what good scholarship has always required.
+The Lineage Declaration — a structured provenance record covering concept origin, stages of tool involvement, boundaries of assistance, and independent defence capability.
+The Compiler Limit — the analogy fails where there is no direction. Using AI to generate core arguments without direction, review, or defence is not compilation. It is delegation. The framework is a defence of directed, transparent, documented AI use — not a defence of all AI use.
+On the Origin of This Work
+The conceptual origins lie in two encounters with the problem of digital preservation.
+The first was a visit to Microsoft, where work on long-duration archival storage technology was under discussion — technology that would eventually inform products like the Millenniata M-DISC, designed to preserve data for 1,000 years. That encounter raised the question of what such permanence might mean for fields where the survival of records is not merely a technical problem but an intellectual one.
+The second was involvement with ARKive — a Millennium-funded global initiative supported by the UK Heritage Lottery Fund and New Opportunities Fund, creating a centralised digital archive of the world's endangered species. At its height ARKive served over half a million users monthly from more than 200 countries.
+In February 2019, ARKive went offline due to sustained funding failure. The content — over 100,000 images and videos — was preserved offline. The public access was not.
+ARKive is a precise illustration of the distinction this manuscript draws between tool presence and lineage preservation. The material survived. The continuity of access did not. The limiting factor was not the medium. It was the institutional will to maintain the chain.
+Declared Tool Use
+A large language model (Claude, Anthropic) was used in the production of this manuscript as a research assistant, critical interlocutor, drafting instrument, and cross-disciplinary connector.
+It did not originate the ideas. It did not determine the structure. It cannot defend the argument.
+The AI was the compiler. The human was the author.
+This declaration is made in accordance with the framework proposed in the manuscript itself.
+Licence
+This work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+You are free to share this work with attribution. You may not use it for commercial purposes or distribute modified versions without permission.
+Full licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
+Citation
+Please cite as:
+Keen, M. J. (2026). The Cognitive Bicycle: Honest AI Use, Intellectual Ownership, and the Framework the Academy Needs (Version 2.3). Working manuscript. GitHub. https://github.com/[your-username]/the-cognitive-bicycle
+Contact
+Correspondence via GitHub Issues.
