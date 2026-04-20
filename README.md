@@ -102,8 +102,8 @@ Full licence: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Please cite as:
 
-> Keen, M. J. (2026). *The Cognitive Bicycle: Honest AI Use, Intellectual Ownership, and the Framework the Academy Needs* (Version 2.3). Working manuscript. GitHub. [https://github.com/[]/the-cognitive-bicycle
-](https://github.com/lineageframework/Cognitive-Bicycle/blob/main/README.md)
+> Keen, M. J. (2026). *The Cognitive Bicycle: Honest AI Use, Intellectual Ownership, and the Framework the Academy Needs* (Version 2.3). Working manuscript. GitHub. https://github.com/lineageframework/Cognitive-Bicycle
+
 ---
 
 ## Contact
